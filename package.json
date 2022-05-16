@@ -36,7 +36,7 @@
     "hexo-server": "^3.0.0",
     "hexo-wordcount": "^6.0.1",
     "stylus": "^0.57.0",
-    "stylus-loader": "^3.0.2"
+    "stylus-loader": "^6.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.10",
