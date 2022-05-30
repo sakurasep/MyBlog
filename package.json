@@ -35,7 +35,7 @@
     "hexo-renderer-marked": "^5.0.0",
     "hexo-server": "^3.0.0",
     "hexo-wordcount": "^6.0.1",
-    "stylus": "^0.57.0",
+    "stylus": "^0.58.0",
     "stylus-loader": "^3.0.2"
   },
   "devDependencies": {
